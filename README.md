@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://ragibhasan.vercel.app/](https://ragibhasan.vercel.app/)
+- 👨‍💻 You can join my forum for more [https://studio.droqai.top](https://studio.droqai.top)
 
 - 💬 Ask me about **c and python**
 
