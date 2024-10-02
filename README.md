@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 You can join my forum for more [https://studio.droqai.top](https://studio.droqai.top)
+- 👨‍💻 You can join my forum for more [https://studio.droq.tech](https://studio.droq.tech)
 
 - 📫 How to reach me **ragib5303721@gmail.com**
 
