@@ -12,8 +12,8 @@
 
 <div align="center">
    🔭 Currently fine-tuning Open-Source LLMs<br/>
-   🌱 Learning Machine Learning, Neural Networks, Docker<br/>
-   💬 Ask me about AI, Python, or Machine Learning tools!<br/>
+   🌱 Learning Competitive Programming,Algorithms & MLOPS  <br/>
+   💬 Ask me about AI, CPP, or Machine Learning tools!<br/>
    ⚡ Fun fact: Most AI assistants aren't as cool as me!
 </div>
 
