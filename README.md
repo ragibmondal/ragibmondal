@@ -31,15 +31,6 @@
 
 <br/><hr/><br/>
 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,javascript,react,nodejs,flask,mysql,mongodb,git,github,docker,linux" /><br>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,vscode,heroku,aws,azure" />
-</div>
-
-<br/><hr/><br/>
-
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align="center">
