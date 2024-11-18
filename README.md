@@ -52,25 +52,13 @@
 
 <h2 align="center">🌐 My GitHub Graphs 🌐</h2>
 
-<div align="center">
-   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-       <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="45%" />
-       <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="45%" />
-   </a>
-</div>
+<h2 align="center"> My Graphs(They are Pathetic)</h2>
+<br/>
 
-<div align="center">
-   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-       <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="45%" />
-       <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/3-stats.svg" width="45%" />
-   </a>
-</div>
 
-<div align="center">
-   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-       <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="90%" />
-   </a>
-</div>
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br/><hr/><br/>
 
