@@ -52,23 +52,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">🐍 Contributions 🐍</h2>
-<br/>
-<div align="center">
-  <img alt="my contributions" src="https://github.com/ragibmondal/ragibmondal/blob/main/github-user-contribution.svg" />
-</div>
-
-<br/>
-<hr/>
-My Graphs(They are Pathetic)
-
-
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
 
 <h2 align="center">📊 Stats 📊</h2>
 <br/>
@@ -77,6 +60,24 @@ My Graphs(They are Pathetic)
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ragibmondal&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibmondal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center"> My Graphs(They are Pathetic)</h2>
+<br/>
+
+
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<h2 align="center">🐍 Contributions 🐍</h2>
+<br/>
+<div align="center">
+  <img alt="my contributions" src="https://github.com/ragibmondal/ragibmondal/blob/main/github-user-contribution.svg" />
 </div>
 
 <br/>
