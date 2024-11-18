@@ -51,8 +51,6 @@
 <br/><hr/><br/>
 
 <h2 align="center">🌐 My GitHub Graphs 🌐</h2>
-
-<h2 align="center"> My Graphs(They are Pathetic)</h2>
 <br/>
 
 
