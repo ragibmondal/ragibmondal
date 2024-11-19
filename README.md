@@ -55,7 +55,7 @@
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 
 <div align="center">
-   <img alt="my contributions" src="https://github.com/ragibmondal/ragibmondal/blob/main/github-user-contribution.svg" />
+   <img alt="my contributions" src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/3a5bcc159991b89c9d1a6aeee6ff3490ead914b1/github-user-contribution.svg" />
 </div>
 
 <br/><hr/><br/>
