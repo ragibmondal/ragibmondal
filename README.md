@@ -12,7 +12,7 @@
 
 <div align="center">
    🔭 Currently fine-tuning Open-Source LLMs<br/>
-   🌱 Learning Competitive Programming,Algorithms & MLOPS  <br/>
+   🌱 Learning Competitive Programming, Algorithms & MLOPS<br/>
    💬 Ask me about AI, CPP, or Machine Learning tools!<br/>
    ⚡ Fun fact: Most AI assistants aren't as cool as me!
 </div>
@@ -45,12 +45,13 @@
 <h2 align="center">🌐 My GitHub Graphs 🌐</h2>
 <br/>
 
-
 [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<br/><hr/><br/>
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<br/><hr/><br/>
 
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 
@@ -67,3 +68,44 @@
        <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee' />
    </a>
 </div>
+
+<br/><hr/><br/>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+<div align="center">
+   <a href="https://github.com/ragibmondal/Project-1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=Project-1&theme=react" />
+   </a>
+   <a href="https://github.com/ragibmondal/Project-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=Project-2&theme=react" />
+   </a>
+</div>
+
+<br/><hr/><br/>
+
+<h2 align="center">⚙️ GitHub Workflow ⚙️</h2>
+
+<div align="center">
+   <img src="https://github.com/ragibmondal/ragibmondal/actions/workflows/update-readme.yml/badge.svg" alt="GitHub Workflow Status" />
+</div>
+
+<br/><hr/><br/>
+
+<h2 align="center">📅 Last Updated</h2>
+
+<div align="center">
+   <img src="https://img.shields.io/github/last-commit/ragibmondal/ragibmondal?label=Last%20Updated&style=for-the-badge" alt="Last Updated" />
+</div>
+
+<br/><hr/><br/>
+
+<h2 align="center">🎉 Thanks for Visiting! 🎉</h2>
+
+<div align="center">
+   <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="200" alt="Thank You" />
+</div>
+
+---
+
+### 🔥 Designed with ❤️ by [Ragib Hasan](https://github.com/ragibmondal)
