@@ -34,19 +34,19 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://fb.com/your-facebook-profile" target="_blank">
+  <a href="https://fb.com/ragibhasan2.0" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ragib5303721@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-profile" target="_blank">
+  <a href="https://www.hackerrank.com/ragibmondal" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
-  <a href="https://judge.beecrowd.com/en/profile/your-beecrowd-profile" target="_blank">
+  <a href="https://judge.beecrowd.com/en/profile/ragib5303721" target="_blank">
     <img src="https://img.shields.io/badge/Beecrowd-222222?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
-  <a href="https://codeforces.com/profile/your-codeforces-profile" target="_blank">
+  <a href="https://codeforces.com/profile/ragibmondal" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
 </p>
