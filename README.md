@@ -25,8 +25,7 @@
 - 🔧 I’m currently learning **Machine Learning** and **Competitive Programming**.  
 - 🌟 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.  
 - 👨‍💻 I love working on **AI, ML, and problem-solving** challenges.  
-- 💎 Reach me at **your-email@example.com**  
-- ⚡ Fun fact: **I am funny 😆**  
+- 💎 Reach me at **ragib5303721@gmail.com**  
 
 ---
 ## 🔗 Connect with Me  
@@ -126,9 +125,9 @@
 
 ## 🐂 Featured Projects  
 
-- 🔹 **[Project 1](https://github.com/ragibmondal/project-1)**  
-- 🔹 **[Project 2](https://github.com/ragibmondal/project-2)**  
-- 🔹 **[Project 3](https://github.com/ragibmondal/project-3)**  
+- 🔹 **[codeforces-contest-tracker](https://github.com/ragibmondal/codeforces-contest-tracker)**  
+- 🔹 **[portfolio-2](https://github.com/ragibmondal/portfolio-2)**  
+- 🔹 **[llama3.1-70b](https://github.com/ragibmondal/llama3.1-70b)**  
 
 ---
 
@@ -140,5 +139,3 @@
 
 ---
 
-### 🔥 Designed with ❤️ by [Ragib Mondal](https://github.com/ragibmondal)
-Last updated: Sun Jan 26 03:40:50 UTC 2025
