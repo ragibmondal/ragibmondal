@@ -21,12 +21,12 @@
 
 # 🚀 About Me  
 
-- 🔧 I'm currently learning **Machine Learning** and **Competitive Programming**
-- 🌟 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**
-- 👨‍💻 I love working on **AI, ML, and problem-solving** challenges
-- 💎 Reach me at **ragib5303721@gmail.com**
-- 🏆 Regular participant in coding competitions across multiple platforms
-- 🌱 Always eager to learn and tackle new challenges
+- 🔧 Currently immersed in learning **Machine Learning** and **Competitive Programming**
+- 🌟 Driven by a passion for **Coding**, **Problem Solving**, and exploring **Cutting-edge Technologies**
+- 👨‍💻 Enthusiastically working on **AI, ML, and Algorithmic** challenges
+- 💎 Let's connect at **ragib5303721@gmail.com**
+- 🎯 Committed to continuous learning and innovation
+- 💡 Always eager to collaborate on impactful projects
 
 ---
 
@@ -42,19 +42,8 @@
   <a href="mailto:ragib5303721@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-
-## 🏆 Competitive Programming Profiles
-
-<p align="center">
   <a href="https://www.hackerrank.com/ragibmondal" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-  <a href="https://www.codechef.com/users/ragib5303721" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
-  </a>
-  <a href="https://atcoder.jp/users/ragibhasan" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-00ACD7?style=for-the-badge&logo=atcoder&logoColor=white">
   </a>
   <a href="https://judge.beecrowd.com/en/profile/ragib5303721" target="_blank">
     <img src="https://img.shields.io/badge/Beecrowd-222222?style=for-the-badge&logo=codeforces&logoColor=white">
@@ -79,48 +68,75 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ragibmondal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ragibmondal&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibmondal&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ragibmondal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragibmondal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 Contribution Overview
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibmondal&layout=compact&langs_count=8&theme=tokyonight&card_width=500" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragibmondal&theme=github_dark&width=400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragibmondal&theme=github_dark&width=400" />
+</p>
+
+---
+
+## 📊 Development Activity  
+### 🚀 Progress
+- **Project Completion:** ![Progress](https://progress-bar.dev/50/)  
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragibmondal&theme=github_dark" alt="Profile Details"/>
 </p>
 
 <p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragibmondal&theme=github_dark" alt="GitHub Stats Summary"/> 
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragibmondal&theme=github_dark&utcOffset=6" alt="Productive Time"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragibmondal&theme=github_dark" alt="Repos per Language"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects  
+## 🔥 GitHub Contributions  
 
-- 🔹 **[codeforces-contest-tracker](https://github.com/ragibmondal/codeforces-contest-tracker)** - Track and analyze Codeforces contests
-- 🔹 **[portfolio-2](https://github.com/ragibmondal/portfolio-2)** - Personal portfolio website
-- 🔹 **[llama3.1-70b](https://github.com/ragibmondal/llama3.1-70b)** - AI/ML project implementation
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragibmondal&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragibmondal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/dist/snake.svg" />
+</p>
+
+---
+
+## 🐂 Featured Projects  
+
+- 🔹 **[codeforces-contest-tracker](https://github.com/ragibmondal/codeforces-contest-tracker)**: An innovative tool for tracking and analyzing Codeforces competitions
+- 🔹 **[portfolio-2](https://github.com/ragibmondal/portfolio-2)**: A modern, responsive portfolio showcasing my journey and achievements
+- 🔹 **[llama3.1-70b](https://github.com/ragibmondal/llama3.1-70b)**: Advanced implementation of AI/ML concepts
 
 ---
 
 ## 🎯 Let's Collaborate  
 
-💡 I'm always open to collaborating on interesting projects and learning from fellow developers. Feel free to reach out if you'd like to work together or discuss ideas!
+💡 I'm always excited to explore new ideas and collaborate on innovative projects! Feel free to explore my repositories or reach out for potential collaborations. Let's create something extraordinary together! 🚀  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/dist/snake.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center"><b>Thanks for visiting my profile! 😊</b></p>
+<p align="center"><b>Thank you for visiting my profile! 😊</b></p>
 
 ---
