@@ -8,6 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -15,7 +16,7 @@ jobs:
       - name: Generate Snake Contribution Grid
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}  # Correct username
           outputs: dist/snake.svg
 
       - name: Commit and Push
@@ -24,3 +25,10 @@ jobs:
           add: "dist/snake.svg"
           message: "Updated contribution snake"
           push: true
+          branch: "main"  # Ensure the correct branch (if needed)
+          
+      - name: Push Changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Add your secret token for authentication
+        run: |
+          git push
