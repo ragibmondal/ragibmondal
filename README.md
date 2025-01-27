@@ -1,111 +1,144 @@
-<div align="center">
-   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ragibmondal.ragibmondal" width="150" />
-   
-   <h1>
-       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ragib+Hasan!;" />
-   </h1>
-   
-   <h3>A passionate AI & ML learner from Bangladesh 🇧🇩</h3>
-</div>
+<h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Ragib Mondal</h1>
+<h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
 
-<br/>
+<!-- Visitor Count Badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ragibmondal&label=Visitors&color=36BCF7&style=flat" alt="ragibmondal" />
+</p>
 
-<div align="center">
-   🔭 Currently fine-tuning Open-Source LLMs<br/>
-   🌱 Learning Competitive Programming, Algorithms & MLOPS<br/>
-   💬 Ask me about AI, CPP, or Machine Learning tools!<br/>
-   ⚡ Fun fact: Most AI assistants aren't as cool as me!
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Ragib+Mondal.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
+</p>
 
-<br/><hr/><br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Wave Animation">
+</p>
 
-<h2 align="center">📬 Connect with Me 📬</h2>
-
-<div align="center">
-   <a href="mailto:ragib5303721@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-   <a href="https://codeforces.com/profile/ragibmondal"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-   <a href="https://linkedin.com/in/ragibhasan2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://kaggle.com/ragibhasan2"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-   <a href="https://twitter.com/ragibhasan2.0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</div>
-
-<br/><hr/><br/>
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<div align="center">
-   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ragibmondal&theme=react&border_radius=10" alt="streak stats"/>
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ragibmondal&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-   <br/><br/>
-   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibmondal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-
-<br/><hr/><br/>
-
-<h2 align="center">🌐 My GitHub Graphs 🌐</h2>
-<br/>
-
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<br/><hr/><br/>
-
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-
-<div align="center">
-   <img alt="my contributions" src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/3a5bcc159991b89c9d1a6aeee6ff3490ead914b1/github-user-contribution.svg" />
-</div>
-
-<br/><hr/><br/>
-
-<h2 align="center">💡 Support Me 💡</h2>
-
-<div align="center">
-   <a href='https://ko-fi.com/ragibhasan' target='_blank'>
-       <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee' />
-   </a>
-</div>
-
-<br/><hr/><br/>
-
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-
-<div align="center">
-   <a href="https://github.com/ragibmondal/Project-1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=Project-1&theme=react" />
-   </a>
-   <a href="https://github.com/ragibmondal/Project-2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=Project-2&theme=react" />
-   </a>
-</div>
-
-<br/><hr/><br/>
-
-<h2 align="center">⚙️ GitHub Workflow ⚙️</h2>
-
-<div align="center">
-   <img src="https://github.com/ragibmondal/ragibmondal/actions/workflows/update-readme.yml/badge.svg" alt="GitHub Workflow Status" />
-</div>
-
-<br/><hr/><br/>
-
-<h2 align="center">📅 Last Updated</h2>
-
-<div align="center">
-   <img src="https://img.shields.io/github/last-commit/ragibmondal/ragibmondal?label=Last%20Updated&style=for-the-badge" alt="Last Updated" />
-</div>
-
-<br/><hr/><br/>
-
-<h2 align="center">🎉 Thanks for Visiting! 🎉</h2>
-
-<div align="center">
-   <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="200" alt="Thank You" />
-</div>
+<p align="center">
+  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ---
 
-### 🔥 Designed with ❤️ by [Ragib Hasan](https://github.com/ragibmondal)
+# 🚀 About Me  
+
+- 🔧 I’m currently learning **Machine Learning** and **Competitive Programming**.  
+- 🌟 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.  
+- 👨‍💻 I love working on **AI, ML, and problem-solving** challenges.  
+- 💎 Reach me at **your-email@example.com**  
+- ⚡ Fun fact: **I am funny 😆**  
+
+---
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://fb.com/your-facebook-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/your-hackerrank-profile" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/your-beecrowd-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Beecrowd-222222?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+  <a href="https://codeforces.com/profile/your-codeforces-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragibmondal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragibmondal&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibmondal&layout=compact&langs_count=8&theme=tokyonight&card_width=500" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragibmondal&theme=github_dark&width=400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragibmondal&theme=github_dark&width=400" />
+</p>
+
+---
+
+## 📊 Development Activity  
+### 🚀 Progress
+- **Project Completion:** ![Progress](https://progress-bar.dev/50/)  
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragibmondal&theme=github_dark" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragibmondal&theme=github_dark" alt="GitHub Stats Summary"/> 
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragibmondal&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+</p>
+
+---
+
+## 🔥 GitHub Contributions  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragibmondal&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragibmondal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ragibmondal/ragibmondal/main/dist/snake.svg" />
+</p>
+
+---
+
+## 🐂 Featured Projects  
+
+- 🔹 **[Project 1](https://github.com/ragibmondal/project-1)**  
+- 🔹 **[Project 2](https://github.com/ragibmondal/project-2)**  
+- 🔹 **[Project 3](https://github.com/ragibmondal/project-3)**  
+
+---
+
+## 🎯 Let's Collaborate  
+
+💡 Feel free to **explore my repositories**, **contribute to projects**, or **reach out to me** for collaboration! Let’s build amazing things together! 🚀  
+
+<p align="center"><b>Thanks for visiting my profile! 😊</b></p>
+
+---
+
+### 🔥 Designed with ❤️ by [Ragib Mondal](https://github.com/ragibmondal)
+Last updated: Sun Jan 26 03:40:50 UTC 2025
