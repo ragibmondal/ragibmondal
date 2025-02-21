@@ -76,7 +76,7 @@ const ragib = {
   <a href="https://www.codechef.com/users/ragib5303721"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
   <a href="https://atcoder.jp/users/ragibhasan"><img src="https://img.shields.io/badge/AtCoder-00ACD7?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/ragibmondal"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://judge.beecrowd.com/en/profile/ragib5303721"><img src="https://img.shields.io/badge/Beecrowd-101010?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+  <a href="https://judge.beecrowd.com/en/profile/867943"><img src="https://img.shields.io/badge/Beecrowd-101010?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 </div>
 
 <hr/>
