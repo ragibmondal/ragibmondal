@@ -72,7 +72,7 @@ const ragib = {
 
 <div align="center">
   <h3>🏆 Competitive Programming Profiles</h3>
-  <a href="https://codeforces.com/profile/ragibmondal"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/rhasan14"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/ragib5303721"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
   <a href="https://atcoder.jp/users/ragibhasan"><img src="https://img.shields.io/badge/AtCoder-00ACD7?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/ragibmondal"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
