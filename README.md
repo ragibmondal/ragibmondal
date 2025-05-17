@@ -157,22 +157,7 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragibmondal&bg_color=00000000&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true" width="95%" />
 </div>
-<!-- Featured Projects with improved card design -->
-<h2 align="center">🔥 Featured Projects</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/ragibmondal/codeforces-contest-tracker" style="width: 49%; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=codeforces-contest-tracker&bg_color=00000000&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true" width="100%" />
-  </a>
-  <a href="https://github.com/ragibmondal/portfolio-2" style="width: 49%; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=portfolio-2&bg_color=00000000&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true" width="100%" />
-  </a>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/ragibmondal/llama3.1-70b" style="width: 49%; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=llama3.1-70b&bg_color=00000000&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true" width="49%" />
-  </a>
-</div>
-<hr>
+
 <!-- Contribution Snake with improved styling -->
 <div align="center">
   <h2>🐍 Contribution Snake 🐍</h2>
