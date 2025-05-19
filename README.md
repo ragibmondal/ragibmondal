@@ -130,7 +130,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github.com/ragibmondal/ragibmondal/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/ragibmondal/ragibmondal/blob/main/dist/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Interactive contribution calendar with 3D effects -->
