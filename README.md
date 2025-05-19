@@ -1,4 +1,3 @@
-<!-- Professional Header with Portfolio Focus -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=300&section=header&text=Ragib%20Mondal&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&animation=fadeIn&fontColor=ffffff&fontSize=80&fontAlignY=35&descAlignY=55&descSize=20" width="100%" />
 </div>
@@ -107,22 +106,6 @@
       <img src="https://img.shields.io/badge/Beecrowd-101010?style=for-the-badge&logo=jupyter&logoColor=white" alt="Beecrowd"/>
     </a>
   </div>
-</div>
-
-<!-- Featured Projects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25">
-  <b>Featured Projects</b>
-</h2>
-
-<div align="center">
-  <a href="https://github.com/ragibmondal/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=project1&border_color=6366f1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6366f1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ragibmondal/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ragibmondal&repo=project2&border_color=6366f1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6366f1" />
-  </a>
 </div>
 
 <!-- Activity Graph -->
