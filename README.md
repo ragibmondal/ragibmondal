@@ -20,7 +20,7 @@
 
 <!-- Professional Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Ragib+Mondal;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Ragib+Mondal;Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <!-- Profile Overview -->
