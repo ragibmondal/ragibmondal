@@ -1,28 +1,37 @@
-<!-- 3D Animated Header with improved visuals -->
+<!-- Professional Header with Portfolio Focus -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Ragib+Mondal;Developer+%7C+Problem+Solver;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=300&section=header&text=Ragib%20Mondal&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&animation=fadeIn&fontColor=ffffff&fontSize=80&fontAlignY=35&descAlignY=55&descSize=20" width="100%" />
 </div>
 
-<!-- 3D animated banner using CSS3D -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=300&section=header&text=Ragib%20Mondal&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&animation=fadeIn&fontColor=ffffff&fontSize=80&fontAlignY=35&descAlignY=55&descSize=20" width="100%" />
-</div>
-
-<!-- Portfolio Link -->
+<!-- Portfolio and Social Links -->
 <div align="center">
   <a href="https://ragibmondal.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/ragibhasan2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ragib5303721@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ragibmondal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-<!-- 3D-style profile summary with glowing effects -->
+<!-- Professional Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Ragib+Mondal;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+<!-- Profile Overview -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragibmondal&theme=tokyonight" width="100%" />
 </div>
 
-<!-- Interactive about me section with 3D icons -->
+<!-- About Me Section -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   <b>About Me</b>
 </h2>
 
@@ -46,16 +55,20 @@
       </td>
       <td> Working towards <b>Open Source Contributions</b> </td>
     </tr>
-    <tr>
-      <td width="50px" align="center">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" height="40"/>
-      </td>
-      <td> <b>Fun fact:</b> Code is like humor. When you have to explain it, it's bad! </td>
-    </tr>
   </table>
 </div>
 
-<!-- 3D animated stats cards with interactive hover effects -->
+<!-- Tech Stack -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25">
+  <b>Tech Stack</b>
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,tailwind&perline=5" />
+</div>
+
+<!-- GitHub Stats -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
   <b>GitHub Stats</b>
@@ -68,124 +81,7 @@
   </a>
 </p>
 
-<!-- 3D Isometric Tech Stack with tooltips and glow effects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25">
-  <b>Tech Stack</b>
-</h2>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
-        </a>
-        <br>C++
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=py" width="65" height="65" alt="Python" />
-        </a>
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-        </a>
-        <br>C
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-        </a>
-        <br>GitHub
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-        </a>
-        <br>HTML5
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-        </a>
-        <br>CSS3
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 3D Timeline of coding journey -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7iv/giphy.gif" width="25">
-  <b>My Coding Journey</b>
-</h2>
-
-<div align="center">
-  <img src="https://github.com/ragibmondal/ragibmondal/blob/main/dist/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Interactive contribution calendar with 3D effects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="25">
-  <b>Contributions</b>
-</h2>
-
-<div align="center">
-  <a href="https://github.com/ragibmondal">
-    <img alt="Ragib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ragibmondal&custom_title=Ragib%20Mondal's%20Contribution%20Graph&theme=tokyo-night&bg_color=000000&hide_border=true&line=6366f1&point=6366f1" />
-  </a>
-</div>
-
-<!-- 3D trophy showcase with perspective effects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/2nDyednQnP3KQUVVNX/giphy.gif" width="25">
-  <b>GitHub Trophies</b>
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragibmondal&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
-</div>
-
-<!-- Interactive streak stats with 3D fire effects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="25">
-  <b>GitHub Streak</b>
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragibmondal&theme=tokyonight&hide_border=true&stroke=6366f1&fire=6366f1&currStreakNum=FFFFFF&currStreakLabel=6366f1&sideNums=FFFFFF&dates=FFFFFF&background=000000" alt="GitHub Streak" />
-</div>
-
-<!-- Interactive social media links with 3D hover effects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jnKMwCYAGVQ8lFgEnu/giphy.gif" width="25">
-  <b>Connect With Me</b>
-</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ragibhasan2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ragib5303721@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://fb.com/ragibhasan2.0" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
-
-<!-- 3D competitive programming profiles with interactive stats -->
+<!-- Competitive Programming -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25">
   <b>Competitive Programming</b>
@@ -213,7 +109,7 @@
   </div>
 </div>
 
-<!-- Interactive projects showcase with 3D card effects -->
+<!-- Featured Projects -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25">
   <b>Featured Projects</b>
@@ -229,17 +125,39 @@
   </a>
 </div>
 
-<!-- 3D animated skills progress bars -->
+<!-- Activity Graph -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QZVdubDMGtY0TJMzL9/giphy.gif" width="25">
-  <b>Skills & Proficiency</b>
+  <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="25">
+  <b>Contribution Graph</b>
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,c,html,css,git,github,vscode,mongodb,mysql&perline=5" />
+  <a href="https://github.com/ragibmondal">
+    <img alt="Ragib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ragibmondal&custom_title=Ragib%20Mondal's%20Contribution%20Graph&theme=tokyo-night&bg_color=000000&hide_border=true&line=6366f1&point=6366f1" />
+  </a>
 </div>
 
-<!-- Interactive visitor counter with 3D effects -->
+<!-- GitHub Trophies -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/2nDyednQnP3KQUVVNX/giphy.gif" width="25">
+  <b>GitHub Trophies</b>
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ragibmondal&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
+</div>
+
+<!-- GitHub Streak -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="25">
+  <b>GitHub Streak</b>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragibmondal&theme=tokyonight&hide_border=true&stroke=6366f1&fire=6366f1&currStreakNum=FFFFFF&currStreakLabel=6366f1&sideNums=FFFFFF&dates=FFFFFF&background=000000" alt="GitHub Streak" />
+</div>
+
+<!-- Visitor Counter -->
 <div align="center">
   <br>
   <a href="https://github.com/ragibmondal">
@@ -247,7 +165,7 @@
   </a>
 </div>
 
-<!-- 3D animated footer -->
+<!-- Professional Footer -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+connect+and+collaborate!;Open+to+exciting+opportunities!" />
 </div>
