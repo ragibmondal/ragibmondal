@@ -56,7 +56,7 @@
   <div style="color: #CCCCCC; max-width: 750px; margin: 20px auto; text-align: left; font-size: 1.05em; line-height: 1.6;">
     <ul style="list-style: none; padding-left: 0;">
       <li>🎓 <strong>University Courses:</strong> OOP in Java, Data Structures & Algorithms, SQL, Digital Logic Design, and Electrical Engineering Fundamentals.</li>
-      <li>📜 <strong>Certifications & Skills:</strong> JavaScript, Next.js, Cisco, n8n, Python, Streamlit, Gradio, OpenCV, YOLO, System Design & Analysis.</li>
+      <li>📜 <strong>Certifications & Skills:</strong> JavaScript, Next.js, Cisco, Python, System Design & Analysis.</li>
     </ul>
   </div>
    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" />
@@ -65,7 +65,7 @@
 <!-- Tech Stack -->
 <section style="background-color: #0f0f0f; border-radius: 10px; padding: 25px; margin-bottom: 40px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);">
   <h2 style="color: #00FFFF;">Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,tailwind&perline=6" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,renact,nodejs,express,mongodb,mysql,html,css,git,github,vscode,tailwind&perline=6" alt="Tech Stack Icons" />
 </section>
 
 <!-- GitHub Stats -->
