@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <div style="background-color: #0A0A0A; padding: 20px; border-radius: 10px; margin-bottom: 20px; text-align: center;">
-  <img src="header_image.png" width="100%" style="border-radius: 8px;" alt="Header Image" />
+  <img src="head.png" width="100%" style="border-radius: 8px;" alt="Header Image" />
 </div>
 
 <!-- Social Links -->
@@ -56,6 +56,7 @@
       <li>📜 <strong>Certifications & Skills:</strong> JavaScript, Next.js, Cisco, n8n, Python, Streamlit, Gradio, OpenCV, YOLO, System Design & Analysis.</li>
     </ul>
   </div>
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" />
 </section>
 
 <!-- Tech Stack -->
@@ -77,8 +78,10 @@
 <section style="text-align: center; padding: 25px; margin-bottom: 40px; background-color: #0f0f0f; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);">
   <h3 style="color: #00FFFF;">Visitor Counter</h3>
   <a href="https://github.com/ragibmondal">
-    <img alt="Visitor Counter" src="https://profile-counter.glitch.me/ragibmondal/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=ragibmondal&label=Visitors&color=36BCF7&style=flat" alt="ragibmondal" width="150" height="30"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   </a>
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" />
 </section>
 
 <!-- Footer -->
