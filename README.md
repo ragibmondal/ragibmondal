@@ -31,6 +31,9 @@
     <strong>Developer & AI/ML Enthusiast</strong> passionate about open-source contributions and building innovative tech solutions.
   </p>
 </section>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="80%" alt="Neon Line Divider"/>
+</div>
 
 <!-- About Me -->
 <section style="background-color: #0f0f0f; border-radius: 10px; padding: 25px; margin-bottom: 40px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
