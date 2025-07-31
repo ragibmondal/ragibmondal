@@ -80,8 +80,8 @@
   <a href="https://github.com/ragibmondal">
   <img src="https://komarev.com/ghpvc/?username=ragibmondal&label=Visitors&color=36BCF7&style=flat" alt="ragibmondal" width="150" height="30"/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </a> <b>
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" />
+  </a> <div>
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" /> </div>
 </section>
 
 <!-- Footer -->
